@@ -1,5 +1,7 @@
 # Giffa - GIF Görüntüleyici
 
+[![İndir / Download](https://img.shields.io/badge/Giffa_v1.0.0-İndir_/_Download-brightgreen?style=for-the-badge&logo=windows)](https://github.com/fettahfurkan/giffa/raw/master/dist/Giffa.exe)
+
 Giffa, masaüstünüzde GIF dosyalarını görüntülemek için kullanılan modern bir Windows uygulamasıdır.
 
 ## Özellikler
