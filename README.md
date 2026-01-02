@@ -75,7 +75,7 @@ Giffa, masaüstünüzde GIF dosyalarını görüntülemek için kullanılan mode
 ## Dosya Yapısı
 
 ```
-glmdeneme/
+giffa/
 ├── gif_viewer.py      # Kaynak kod
 ├── bite.ico           # Uygulama ikonu
 ├── Giffa.exe          # Derlenmiş uygulama
