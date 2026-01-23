@@ -16,7 +16,7 @@ Giffa, masaüstünüzde GIF dosyalarını görüntülemek için kullanılan mode
 
 ## Kurulum
 
-1. `dist\Giffa.exe` dosyasını çalıştırın
+1. `dist\Giffa.exe` dosyasını **Yönetici olarak** çalıştırın
 2. İlk çalıştırmada uygulama otomatik olarak `C:\Users\USER\Pictures\gifs` klasörünü oluşturur
 3. GIF dosyalarınızı bu klasöre ekleyin
 4. Uygulamayı tekrar çalıştırın
